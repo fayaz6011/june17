@@ -1,0 +1,42 @@
+
+body{
+  padding:60px;
+ 
+
+}
+.firstdiv{
+  background: url(background/e.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+
+}
+.thirddiv{
+	background-color:#0099ff;
+	margin-left:-60px;
+	margin-right:-60px;
+	margin-top:50px;
+}
+.fourthdiv{
+	margin-top:50px;
+}
+.fifthdiv{
+	margin-top:50px;
+	width:100%;
+	height:100%;
+	padding:50px;
+	background-color:rgba(1,1,1,0.4);
+	
+	}
+	body{
+		margin-left:0px;
+		margin-right:0px;
+		width:100%;
+	}
+	footer
+	{
+		margin-left:-85px;
+		margin-right:-85px;
+	}
